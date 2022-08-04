@@ -1,0 +1,27 @@
+// COLORS
+$color-001: #000000;
+$color-002: #ffffff;
+$color-003: #74b42b;
+$color-004: #eaf4e1;
+$color-005: #b4c6a5;
+
+// FONTS
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+
+$font-001: 'Lora', serif;
+$font-002: 'Patua One', cursive;
+
+// FONT-SIZES
+$font-sm: 1rem;
+$font-md: 1.2rem;
+$font-lg: 1.6rem;
+$font-xl: 2rem;
+$font-xxl: 4rem;
+
+//WIDTHS
+$sm: '576px';
+$md: '768px';
+$lg: '992px';
+$xl: '1200px';
+$xxl: '1440px';
